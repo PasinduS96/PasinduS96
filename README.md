@@ -17,6 +17,14 @@
 
 <br />
 
+### Contributions:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduS96&" alt="PasinduS96" /></p>
+
+![](https://komarev.com/ghpvc/?username=PasinduS96)
+
+</br>
+
 
 ### Languages and Tools:
 
@@ -36,12 +44,6 @@
 
 <br />
 <br />
-
-### Contributions:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduS96&" alt="PasinduS96" /></p>
-
-![](https://komarev.com/ghpvc/?username=PasinduS96)
 
 ### Github Stats:
 
