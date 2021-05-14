@@ -1,3 +1,7 @@
+### Hi there, I'm Pasindu Senarathne [website] 👋
+
+[![Website](https://img.shields.io/website?label=pasindu.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pasindu.me)
+
 - 🔭 I’m currently open source coding
 - 🌱 I’m currently learning cloud computing and hosting
 - 👯 I’m looking to collaborate on open source projects
