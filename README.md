@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning cloud computing and hosting
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about NodeJS, ReactJs and Python
-- 📫 How to reach me: https://pasindu.me
 
 ### Connect with me:
 
@@ -14,8 +13,6 @@
 [<img align="left" alt="pasindu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="pasindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pasindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Contributions:
 
