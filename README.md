@@ -2,7 +2,7 @@
 
 ## I'm a Freelance Developer !!
 
-- 🔭 I’m currently open source coding
+- 🔭 I’m currently doing open source coding
 - 🌱 I’m currently learning cloud computing and hosting
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about NodeJS, ReactJs and Python
