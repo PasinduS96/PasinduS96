@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning cloud computing and hosting
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about NodeJS, ReactJs and Python
-- 📫 How to reach me: https://pasindu.me/
+- 📫 How to reach me: https://pasindu.me
 
 ### Connect with me:
 
