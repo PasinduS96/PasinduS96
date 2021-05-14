@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about NodeJS, ReactJs and Python
 
-### Connect with me:
+## Connect with me
 
 [<img align="left" alt="pasindu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pasindu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
