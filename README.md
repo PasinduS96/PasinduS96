@@ -58,4 +58,6 @@
 [instagram]: https://www.instagram.com/p_a_s_i_y_a_96
 [linkedin]: https://www.linkedin.com/in/pasindu-senarathne-7b96a313a
 [facebook]: https://www.facebook.com/pasindubhagya.senarathne
+[github]: https://github.com/PasinduS96
+
 
