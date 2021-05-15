@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pasindu Senarathne][website] 👋
 
-## I'm a Freelance Developer !!
+## I'm a Freelance Software Developer !!
 
 - 🔭 I’m currently doing open source coding
 - 🌱 I’m currently learning cloud computing and hosting
