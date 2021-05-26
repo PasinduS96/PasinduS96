@@ -42,14 +42,6 @@
 
 </br>
 
-### Github Stats:
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pasindu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PasinduS96&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://pasindu.me/
 [instagram]: https://www.instagram.com/p_a_s_i_y_a_96
