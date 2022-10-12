@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pasindu Senarathne][website] 👋
 
-## I'm a Software Developer !!
+## I'm a Full Stack Developer !!
 
 - 🔭 I’m currently doing open source coding
 - 🌱 I’m currently learning cloud computing and TDD
