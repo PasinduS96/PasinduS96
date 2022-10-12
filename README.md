@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about NodeJS, ReactJs and Javascript
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=white&borderColor=black" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=vue" alt="README Jokes"></a>
 
 ### Contributions:
 
