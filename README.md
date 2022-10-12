@@ -11,7 +11,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduS96&" alt="PasinduS96" /></p>
 
-![](https://komarev.com/ghpvc/?username=PasinduS96)
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+)
 
 </br>
 
@@ -33,9 +34,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br />
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img  align="left" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 
 ### Connect with me:
