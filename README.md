@@ -16,6 +16,7 @@
 <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=PasinduS96&countColorcountColor&countColor=%237B1E7B"/>
 <img  align="left" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/PasinduS96?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
+<br /> 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=PasinduS96&theme=react-dark&hide_border=true&area=true)
 
 </br>
