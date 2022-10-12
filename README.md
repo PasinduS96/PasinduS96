@@ -16,6 +16,8 @@
 <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=PasinduS96&countColorcountColor&countColor=%237B1E7B"/>
 <img  align="left" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/PasinduS96?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact" alt="ovi" />
+
 </br>
 
 ### Languages and Tools:
@@ -33,8 +35,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact" alt="ovi" />
 
 <br />
 
