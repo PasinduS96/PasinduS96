@@ -9,8 +9,6 @@
 
 ### Contributions:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduS96&" alt="PasinduS96" /></p>
-
 <img  align="left" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/PasinduS96?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 </br>
